@@ -1,0 +1,30 @@
+{
+
+"VerifyApplicationTitle_TC01":
+ {
+  "ExpectedTile":""
+ },
+ 
+ "VerifyApplicationLogo_TC02":
+ { 
+  "TCName": "VerifyApplicationLogo_TC02"
+ },
+ 
+"VerifyInvalidLogin_TC03":
+ {
+  "Userid": "Mukund",
+  "Password": "Shubham"
+ },
+ 
+ "VerifyValidLogin_TC04":
+ {
+  "Userid": "admin",
+  "Password": "admin"
+ },
+ "Valid Login1":
+ {
+ "Userid": "admin",
+  "Password": "admin"
+ }
+ 
+}
